@@ -1,10 +1,8 @@
-streamlit==1.32.2
-yfinance==0.2.40
-plotly==5.18.0
-pandas==2.1.4
-
-# 강제 downgrade
-rich==13.7.0
-markdown-it-py==3.0.0
-mdurl==0.1.2
-pygments==2.16.1
+streamlit
+folium
+streamlit_folium
+pandas
+yfinance
+plotly
+datetime
+timedelta
